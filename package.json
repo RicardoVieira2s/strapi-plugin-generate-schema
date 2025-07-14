@@ -23,7 +23,7 @@
     "url": "https://github.com/excl-networks/strapi-plugin-generate-schema"
   },
   "engines": {
-    "node": ">=12.x.x <=16.x.x",
+    "node": "18.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
